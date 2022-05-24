@@ -1,5 +1,5 @@
 # FlashcardAp2
-FlashcardA$p^2$ is a very basic flashcard application using node.js for practice functional programming with Javascript.
+FlashcardA$p^2$ is a very basic flashcard application using node.js for practice functional programming with Javascript as a part of the course https://www.udemy.com/course/functional-programming-for-beginners-with-javascript/.
 
 To run it just install node.js, install the dependencies using on the project folder:
 ````
