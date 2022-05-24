@@ -1,12 +1,11 @@
-# FlashcardAp $$p^2$$
-A$p^2$
-A very basic flashcard application using node.js for practice functional programming with Javascript
+# FlashcardAp2
+FlashcardA$p^2$ is a very basic flashcard application using node.js for practice functional programming with Javascript.
 
-To run it just install node.js, install the dependencies using on the project folder
+To run it just install node.js, install the dependencies using on the project folder:
 ````
   npm install --legacy-peer-deps
 ````
-And run
+And run it:
 ```
   npm start
 ```
